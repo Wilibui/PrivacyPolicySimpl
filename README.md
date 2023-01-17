@@ -1,2 +1,2 @@
 # Privacy Policy Simpl.
-We do not colect any data.
+We do not collect any data.
